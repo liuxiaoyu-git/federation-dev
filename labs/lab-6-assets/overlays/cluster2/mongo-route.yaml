@@ -4,4 +4,4 @@ metadata:
   name: mongo
   namespace: mongo
 spec:
-  host: mongocluster2route
+  host: mongo-cluster2.apps.cluster-beijing-7536.beijing-7536.example.opentlc.com
